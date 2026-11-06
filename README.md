@@ -63,10 +63,6 @@ python3 -m http.server 4173
 
 To deploy without Git, zip `index.html`, `resume.pdf` and `amplify.yml` and use **Deploy without Git provider** in Amplify.
 
-## Credits
-
-Designed around my own work, achievements and interests, with the layout inspired by [parascodes.is-a.dev](https://parascodes.is-a.dev/). Built with the help of Claude (Anthropic) as a coding assistant. Course badges and company logos belong to their respective owners.
-
 ## Contact
 
 - Email: deekshastalwart07@gmail.com
